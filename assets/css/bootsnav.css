@@ -507,6 +507,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         width: 100%;
         padding-left: 30px;
         padding-right: 30px;
+        
     }
 }
 
@@ -515,6 +516,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     =================================*/
     nav.navbar.bootsnav ul.nav .dropdown-menu .dropdown-menu{
         margin-top: -2px;
+        
     }
 
     nav.navbar.bootsnav ul.nav.navbar-right .dropdown-menu .dropdown-menu{
